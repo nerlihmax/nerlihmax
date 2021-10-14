@@ -14,7 +14,7 @@
 - NSTU - Computer science - 2020 - 2024 (ongoing).
 - Yandex Frontend School - 2021 september - november.
 
-## Events && Achievements 🏆
+## Events & Achievements 🏆
 
 ### 2021
 - NTI 2020-2021 IoT Final - top 3.
