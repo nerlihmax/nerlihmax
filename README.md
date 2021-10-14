@@ -5,13 +5,13 @@
 - +7 UTC, +4 MSK.
 
 ## Stack 🛠️
-- Basic: Nest.js, Python (with Flask), Typescript.
-- Medium: React, HTML (including semantic tags), vanilla CSS (including transitions & transforms), Tailwind CSS.
+- Basic: Nest.js, Python (with Flask), Typescript, Webpack, ESLint, [Commit convention](www.conventionalcommits.org).
+- Medium: React, HTML (including semantic tags), ES2019, Vanilla CSS (including transitions & transforms), Tailwind CSS.
 - Advanced: Vue 3, Node.js, Express, Embedded devices development using AVR8, Sports robotics.
 
 ## Education 🎓
-- Samsung IT School - basic of Android development - 2018 - 2019.
-- NSTU - computer science - 2020 - 2024 (ongoing).
+- Samsung IT School - Basic of Android development - 2018 - 2019.
+- NSTU - Computer science - 2020 - 2024 (ongoing).
 - Yandex Frontend School - 2021 september - november.
 
 ## Events && Achievements 🏆
@@ -22,3 +22,8 @@
 - NSD.Hack.
 - TenderHack Novosibirsk - top 1 🏆.
 - VTB More.Tech 3.0.
+
+## Contacts 📮
+- [Telegram](https://t.me/nerlihmax)
+- [VK](https://vk.com/nerlihmax)
+- [E-mail](mailto://nerlihmax@yandex.ru)
