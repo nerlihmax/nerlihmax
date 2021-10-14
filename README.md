@@ -17,8 +17,8 @@
 ## Events && Achievements 🏆
 
 ### 2021
-- NTI 2020-2021 
+- NTI 2020-2021 IoT Final - top 3.
 - VK Vezdekod 2021 Tula - top 7 (passed to final stage).
 - NSD.Hack.
-- TenderHack Novosibirsk - winners.
+- TenderHack Novosibirsk - top 1 🏆.
 - VTB More.Tech 3.0.
