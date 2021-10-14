@@ -1,16 +1,24 @@
-### Hi there 👋
+# Nerlih Max 👋
+- Junior frontend developer.
+- 19 y.o.
+- from Novosibirsk, Russia.
+- +7 UTC, +4 MSK.
 
-<!--
-**nerlihmax/nerlihmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack 🛠️
+- Basic: Nest.js, Python (with Flask), Typescript.
+- Medium: React, HTML (including semantic tags), vanilla CSS (including transitions & transforms), Tailwind CSS.
+- Advanced: Vue 3, Node.js, Express, Embedded devices development using AVR8, Sports robotics.
 
-Here are some ideas to get you started:
+## Education 🎓
+- Samsung IT School - basic of Android development - 2018 - 2019.
+- NSTU - computer science - 2020 - 2024 (ongoing).
+- Yandex Frontend School - 2021 september - november.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Events && Achievements 🏆
+
+### 2021
+- NTI 2020-2021 
+- VK Vezdekod 2021 Tula - top 7 (passed to final stage).
+- NSD.Hack.
+- TenderHack Novosibirsk - winners.
+- VTB More.Tech 3.0.
