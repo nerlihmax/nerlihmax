@@ -11,8 +11,8 @@
 
 ## Education 🎓
 - Samsung IT School - Basic of Android development - 2018 - 2019.
-- NSTU - Computer science - 2020 - 2024 (ongoing).
-- Yandex Frontend School - 2021 september - november.
+- NSTU - Computer science - 2020 - 2024.
+- Yandex Frontend School - 2021 september - december.
 
 ## Events & Achievements 🏆
 
