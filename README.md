@@ -5,7 +5,7 @@
 - +7 UTC, +4 MSK.
 
 ## Stack 🛠️
-- Basic: Nest.js, Python (with Flask), Typescript, Webpack, ESLint, [Commit convention](www.conventionalcommits.org).
+- Basic: Nest.js, Python (with Flask), Typescript, Webpack, ESLint, [Commit convention](https://www.conventionalcommits.org).
 - Medium: React, HTML (including semantic tags), ES2019, Vanilla CSS (including flex, grid, transitions, transforms), Tailwind CSS, Mongo.
 - Advanced: Vue 3, Node.js, Express, Embedded devices development using AVR8, Sports robotics.
 
