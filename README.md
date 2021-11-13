@@ -22,6 +22,7 @@
 - NSD.Hack.
 - TenderHack Novosibirsk - top 1 🏆.
 - VTB More.Tech 3.0.
+- VK Vezdekod Final 2021 - top 7
 
 ## Contacts 📮
 - [Telegram](https://t.me/nerlihmax)
