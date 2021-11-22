@@ -3,11 +3,12 @@
 - 19 y.o
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
+- Looking for offer in Novosibirsk for half-time job
 
 ## Stack 🛠️
-- Basic: Nest.js, Python, Typescript, Webpack, ESLint, [Commit convention](https://www.conventionalcommits.org)
-- Medium: Vue 3, React, HTML (including semantic tags), ES2019, Vanilla CSS (including flex, grid, transitions, transforms), Tailwind CSS, MongoDB.
-- Advanced: Node.js, Express, Embedded devices development using AVR8, Sports robotics
+- Front-end: Vue 3, React, Tailwind CSS, Webpack, Storybook, Styled components
+- Back-end: Express, MongoDB
+- Common: Typescript, ESLint, Prettier, Jest, Docker, Make, Bash
 
 ## Education 🎓
 - Samsung IT School - Basic of Android development - 2018 - 2019
