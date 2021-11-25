@@ -6,9 +6,9 @@
 - Looking for offer in Novosibirsk for half-time job
 
 ## Stack 🛠️
-- Front-end: Vue 3, React, Tailwind CSS, Webpack, Storybook, Styled components
+- Front-end: Vue 3, React, Tailwind CSS, Webpack, Storybook, Styled components, Stylelint
 - Back-end: Express, MongoDB
-- Common: Typescript, ESLint, Prettier, Stylelint, Github Actions, Jest, Docker, Make, Bash, OpenCV, ramda.js
+- Common: Typescript, ESLint, Prettier, Github Actions, Jest, Docker, Make, Bash, OpenCV, ramda.js
 
 ## Education 🎓
 - Samsung IT School - Basic of Android development - 2018 - 2019
