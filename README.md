@@ -26,7 +26,7 @@
 - VTB More.Tech 3.0
 - VK Vezdekod Final 2021 - top 7
 
-## Member of:
+## My Teams 🤜🤛
 - [/talkiiing](https://github.com/talkiiing)
 - [cfeee1e5e4e00a](https://github.com/cfeee1e5e4e00a)
 
