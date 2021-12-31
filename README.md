@@ -1,6 +1,6 @@
 # Nerlih Max 👋
 - Junior frontend developer
-- 19 y.o
+- 20 y.o
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
 - Looking for offer in Novosibirsk for half-time job
