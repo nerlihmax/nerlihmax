@@ -33,7 +33,12 @@
 - [/talkiiing](https://github.com/talkiiing)
 - [cfeee1e5e4e00a](https://github.com/cfeee1e5e4e00a)
 
-## Contacts 📮
+## Contacts & Socials & Game profiles 📮
 - [Telegram](https://t.me/nerlihmax)
 - [VK](https://vk.com/nerlihmax)
 - [E-mail](mailto://nerlihmax@yandex.ru)
+- [Shikimori](https://shikimori.one/nerlihmax)
+- [Osu!](https://osu.ppy.sh/users/25855146)
+- [Path of Exile](https://www.pathofexile.com/account/view-profile/nerlihmax)
+- [Steam](https://steamcommunity.com/id/dotir3)
+- [Dotabuff](https://www.dotabuff.com/players/150743539)
