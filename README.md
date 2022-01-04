@@ -38,6 +38,7 @@
 - [VK](https://vk.com/nerlihmax)
 - [E-mail](mailto://nerlihmax@yandex.ru)
 - [Shikimori](https://shikimori.one/nerlihmax)
+- [Кинопоиск](https://www.kinopoisk.ru/user/32824261)
 - [Osu!](https://osu.ppy.sh/users/25855146)
 - [Path of Exile](https://www.pathofexile.com/account/view-profile/nerlihmax)
 - [Steam](https://steamcommunity.com/id/dotir3)
