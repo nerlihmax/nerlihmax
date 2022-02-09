@@ -7,6 +7,7 @@
 
 ## Stack 🛠️
 - React
+- Next
 - Typescript
 - Tailwind CSS
 - Webpack
@@ -23,13 +24,13 @@
 ## Events & Achievements 🏆
 
 ### 2021
-- NTI 2020-2021 IoT Final - top 3
-- VK Vezdekod 2021 Tula - top 7 (passed to final stage)
+- NTI 2020-2021 IoT Final - top 3 of 8
+- VK Vezdekod 2021 Tula - top 7 (passed to final stage) of 8
 - Летняя школа по нейротехнологиям и программированию - обучал школьников 7-9 класса программированию на Python путем реализации проекта с использованием биологической обратной связи
-- NSD.Hack
+- NSD.Hack - group stage
 - TenderHack Novosibirsk - top 1 🏆
-- VTB More.Tech 3.0
-- VK Vezdekod Final 2021 - top 7
+- VTB More.Tech 3.0 - group stage
+- VK Vezdekod Final 2021 - top 7 of 32
 
 ## My projects 💎
 - [Snappyland](https://snappyland.ru) - сайт проекта Minecraft серверов
