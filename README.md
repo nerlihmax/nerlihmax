@@ -3,18 +3,16 @@
 - 20 y.o
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
-- Looking for offer in Novosibirsk for half-time job
+- ???
 
 ## Stack 🛠️
 - React
 - Next
 - Typescript
 - Tailwind CSS
-- Webpack
 - Express
 - MongoDB
 - Github Actions
-- Jest
 - Docker
 
 ## Education 🎓
@@ -31,6 +29,9 @@
 - TenderHack Novosibirsk - top 1 🏆
 - VTB More.Tech 3.0 - group stage
 - VK Vezdekod Final 2021 - top 7 of 32
+
+### 2022
+- NTI 2021-2022 IoT Final - top 2 of 6
 
 ## My projects 💎
 - [Snappyland](https://snappyland.ru) - сайт проекта Minecraft серверов
