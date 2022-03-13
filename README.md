@@ -10,6 +10,7 @@
 - Next
 - Typescript
 - Tailwind CSS
+- Node.js
 - Express
 - MongoDB
 - Github Actions
