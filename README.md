@@ -19,7 +19,7 @@
 - (learning Rust lang...)
 
 ## Experience 💼
-- Liga Robotov - 2022 april - today
+- Liga Robotov - developer - 2022 april - today
 
 ## Education 🎓
 - NSTU - Computer science - 2020 - 2024
