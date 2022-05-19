@@ -18,7 +18,7 @@
 - Docker
 - (learning Rust lang...)
 
-## Experience 💼|
+## Experience 💼
 - Liga Robotov - 2022 april - today
 
 ## Education 🎓
