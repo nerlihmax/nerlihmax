@@ -1,13 +1,14 @@
 # Nerlih Max 👋
-- Junior frontend developer
+- Developer
 - 20 y.o
 - from Novosibirsk, Russia
 - +7 UTC, +4 MSK
-- ???
 
 ## Stack 🛠️
 - React
+- Vue
 - Next
+- Nuxt
 - Typescript
 - Tailwind CSS
 - Node.js
@@ -15,6 +16,10 @@
 - MongoDB
 - Github Actions
 - Docker
+- (learning Rust lang...)
+
+## Experience 💼|
+- Liga Robotov - 2022 april - today
 
 ## Education 🎓
 - NSTU - Computer science - 2020 - 2024
