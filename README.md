@@ -35,7 +35,7 @@
 - NSD.Hack - group stage
 - TenderHack Novosibirsk - top 1 🏆
 - VTB More.Tech 3.0 - group stage
-- VK Vezdekod Final 2021 - top 7 of 32
+- VK Vezdekod 2021 Final - top 7 of 32
 
 ### 2022
 - NTI 2021-2022 IoT Final - top 2 of 6
