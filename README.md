@@ -39,6 +39,7 @@
 
 ### 2022
 - NTI 2021-2022 IoT Final - top 2 of 6
+- VK Vezdekod 2022 Tomsk - group stage
 
 ## Contacts & Socials 📮
 - [Telegram](https://t.me/nerlihmax)
