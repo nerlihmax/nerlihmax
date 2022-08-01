@@ -1,8 +1,8 @@
 # Nerlih Max 👋
-- Developer
+- Fullstack web developer
 - 20 y.o
-- from Novosibirsk, Russia
-- +7 UTC, +4 MSK
+- from Novosibirsk, Russia, currently temporaly live in **Moscow** while interning in Yandex
+- +7 UTC, +4 MSK, **currently +3 UTC**
 
 ## Stack 🛠️
 - React
