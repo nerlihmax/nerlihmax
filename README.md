@@ -19,7 +19,8 @@
 - (learning Rust lang...)
 
 ## Experience 💼
-- Liga Robotov - developer - 2022 april - today
+- Liga Robotov - web developer - 2022 april - july
+- Yandex - web developer - intern - 2022 july - today
 
 ## Education 🎓
 - NSTU - Computer science - 2020 - 2024
