@@ -23,7 +23,7 @@
 - Yandex - web developer - intern - 2022 july - today
 
 ## Education 🎓
-- NSTU - Computer science - 2020 - 2024
+- NSTU - Computer science - 2020 - 2025
 - Yandex Frontend School - 2021 september - december
 
 ## Events & Achievements 🏆
