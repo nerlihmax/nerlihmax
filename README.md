@@ -6,6 +6,7 @@
 
 ## Stack 🛠️
 - React
+- Preact
 - Vue
 - Next
 - Nuxt
@@ -16,6 +17,7 @@
 - MongoDB
 - Github Actions
 - Docker
+- Python
 - (learning Rust lang...)
 
 ## Experience 💼
