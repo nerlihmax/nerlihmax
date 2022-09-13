@@ -21,7 +21,7 @@
 - (learning Rust lang...)
 
 ## Experience 💼
-- Liga Robotov - web developer - 2022 april - july
+- Liga Robotov - web developer - 2022 may - july
 - Yandex - web developer - intern - 2022 july - today
 
 ## Education 🎓
