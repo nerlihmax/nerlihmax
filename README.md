@@ -12,9 +12,9 @@
 - Typescript
 - Node.js
 - Python (scripting & basic skill in data analytic)
-- Basic skills in java, c
+- Basic skills in Java, C
 - (learning Haskell...)
-- (interested Rust...)
+- (interested in Rust...)
 
 ### Frontend
 
@@ -24,15 +24,15 @@
 - Next
 - Nuxt
 - Tailwind CSS
-- (tried three.js & pixl.js in pet-projects)
-- (wanna try solid.js, elm, purescript)
+- (tried Three.js & Pixl.js in pet-projects)
+- (wanna try Solid.js, Elm, Purescript)
 
 ### Backend
 
 - Express
 - MongoDB
-- (tried graphql, grpc, protobuf, nest.js in pet-projects)
-- (wanna try postgres & prismaorm, learn sql)
+- (tried GraphQL, gRPC, Protobuf, Nest.js in pet-projects)
+- (wanna try Postgres & PrismaORM, learn SQL)
 
 ### Devops
 
