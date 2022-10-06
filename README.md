@@ -11,6 +11,7 @@
 
 - Typescript
 - Node.js
+- (interested in ReScript and Elm)
 - Python (scripting & basic skill in data analytic)
 - Basic skills in Java, C
 - (learning Haskell...)
