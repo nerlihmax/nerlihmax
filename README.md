@@ -11,7 +11,6 @@
 
 - Typescript
 - Node.js
-- (interested in ReScript and Elm)
 - Python (scripting & basic skill in data analytic)
 - Basic skills in Java, C
 - (learning Haskell...)
@@ -26,7 +25,7 @@
 - Nuxt
 - Tailwind CSS
 - (tried Three.js & Pixl.js in pet-projects)
-- (wanna try Solid.js, Elm, Purescript)
+- (wanna try Solid.js, Elm, ReScript)
 
 ### Backend
 
