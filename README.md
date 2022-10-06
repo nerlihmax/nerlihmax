@@ -29,7 +29,7 @@
 
 ### Backend
 
-- Express
+- Express, Fastify
 - MongoDB
 - (tried GraphQL, gRPC, Protobuf, Nest.js in pet-projects)
 - (wanna try Postgres & PrismaORM, learn SQL)
