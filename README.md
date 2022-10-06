@@ -40,6 +40,7 @@
 - Docker Compose
 - Github Actions
 - (learning devops swiss army knife: Ansible, k8s, Terraform, ...)
+- Have some experience in setuping rich network w/ Wireguard, internal DNS resolver, SSL and more
 
 ### Other
 
@@ -48,6 +49,7 @@
 - Have some experience in computer vision
 - Have a little bit experience in machine learning
 - Using a *nix a more than 7 years B-)
+- I can read and listen to English free, but unfortunately, due to lack of constant practice, I do not speak and write correctly, as you can see ^_^
 
 ## Work Experience 💼
 
@@ -65,7 +67,7 @@
 
 - NTI 2020-2021 IoT Final - top 3 of 8
 - VK Vezdekod 2021 Tula - top 7 (passed to final stage) of 8
-- Летняя школа по нейротехнологиям и программированию - обучал школьников 7-9 класса программированию на Python путем реализации проекта с использованием биологической обратной связи
+- Summer camp of neurotechologies and programming by "Инжевика" - taught high school students to program in Python by implementing a biofeedback project
 - NSD.Hack - group stage
 - TenderHack Novosibirsk - top 1 🏆
 - VTB More.Tech 3.0 - group stage
@@ -82,4 +84,4 @@
 - [VK](https://vk.com/nerlihmax)
 - [E-mail](mailto://nerlihmax@yandex.ru)
 
-luv cfeee1e5e4e00a <3
+luv my homies cfeee1e5e4e00a <3
