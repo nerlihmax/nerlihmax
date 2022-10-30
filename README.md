@@ -2,8 +2,8 @@
 
 - Fullstack web developer
 - 20 y.o
-- from Novosibirsk, Russia, currently temporary live in Moscow while interning in Yandex
-- +7 UTC, +4 MSK, **currently +3 UTC**
+- from Novosibirsk
+- +7 UTC, +4 MSK
 
 ## Stack & skills 🛠️
 
@@ -54,7 +54,7 @@
 ## Work Experience 💼
 
 - Liga Robotov - web developer - 2022 may - july
-- Yandex - intern web developer - 2022 july - today
+- Yandex - intern web developer - 2022 july - october (got offer, suspended indefinitely) 
 
 ## Education 🎓
 
