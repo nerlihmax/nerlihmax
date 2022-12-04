@@ -18,8 +18,8 @@
 
 ### Frontend
 
+- Preact <3
 - React
-- Preact
 - Vue (2 & 3)
 - Next
 - Nuxt
