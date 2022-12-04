@@ -24,6 +24,7 @@
 - Next
 - Nuxt
 - Tailwind CSS
+- HATE REDUX
 - (tried Three.js & Pixl.js in pet-projects)
 - (wanna try Solid.js, Elm, ReScript)
 
