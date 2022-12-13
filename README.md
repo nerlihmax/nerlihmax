@@ -42,7 +42,7 @@
 - Docker
 - Docker Compose
 - Github Actions
-- (learning devops swiss army knife: Ansible, k8s, Terraform, ...)
+- (learning ansible, swarm, etc devops swiss-army knife tools...)
 - Have some experience in setuping rich network w/ Wireguard, internal DNS resolver, SSL and more
 
 ### Other
@@ -56,7 +56,7 @@
 
 ## Work Experience 💼
 
-- Unknown small outsource company - 2021 may - july
+- Unknown small outsource company - web developer - 2021 may - july
 - Liga Robotov - web developer - 2022 may - july
 - Yandex - intern web developer - 2022 july - october (got offer, suspended while getting education in university)
 - Deeptrix - web delevoper - 2022 october - now
