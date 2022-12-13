@@ -56,9 +56,11 @@
 
 ## Work Experience 💼
 
+- Unknown small outsource company - 2021 may - july
 - Liga Robotov - web developer - 2022 may - july
 - Yandex - intern web developer - 2022 july - october (got offer, suspended while getting education in university)
 - Deeptrix - web delevoper - 2022 october - now
+- Some side projects as freelancer
 
 ## Education 🎓
 
