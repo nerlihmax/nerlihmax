@@ -13,8 +13,9 @@
 - Node.js
 - Python (scripting & basic skill in data analytic)
 - Basic skills in Java, C
-- (learning Haskell...)
-- (interested in Rust...)
+- (learning golang...)
+- (interested in Rust, Haskell...)
+- Like functional programming concepts, have experiments w/ fp-ts and other monad libraries for typescript
 
 ### Frontend
 
@@ -34,15 +35,23 @@
 - MongoDB
 - PostgreSQL
 - Prisma ORM
-- (tried GraphQL, gRPC, Protobuf, Nest.js in pet-projects)
-- (wanna learn SQL)
+- Redis
+- S3
+- (tried GraphQL, gRPC, Protobuf in pet-projects)
+- Have experience w/ Nest.js, TypeORM
+- (wanna become SQL guru)
 
 ### Devops & Administering
 
 - Docker
 - Docker Compose
+- Docker Swarm
 - Github Actions
-- (learning ansible, swarm, etc devops swiss-army knife tools...)
+- Nginx
+- Traefik
+- Prometheus
+- Grafana
+- (learning ansible, etc devops swiss-army knife tools...)
 - Have some experience in setuping rich network w/ Wireguard, internal DNS resolver, SSL and more
 
 ### Other
