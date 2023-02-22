@@ -1,7 +1,7 @@
 # Nerlih Max 👋
 
-- Fullstack web developer
-- 20 y.o
+- Software engineer
+- 21 y.o
 - from Novosibirsk
 - +7 UTC, +4 MSK
 
@@ -11,20 +11,22 @@
 
 - Typescript
 - Node.js
-- Python (scripting & basic skill in data analytic)
+- Python
 - Basic skills in Java, C
-- (learning golang...)
-- (interested in Rust, Haskell...)
-- Like functional programming concepts, have experiments w/ fp-ts and other monad libraries for typescript
+- (interested in Rust and Haskell)
+- Like functional programming concepts, using fp-ts, ts-pattern, rambda and other functional libraries in all my projects
 
 ### Frontend
 
 - Preact <3
 - React
-- Vue (2 & 3)
 - Next
-- Nuxt
 - Tailwind CSS
+- preact/signals <3
+- Storybook
+- loki.js
+- Vue (2 & 3)
+- Nuxt
 - HATE REDUX
 - (tried Three.js & Pixl.js in pet-projects)
 - (wanna try Solid.js, Elm, ReScript)
@@ -37,21 +39,24 @@
 - Prisma ORM
 - Redis
 - S3
+- Nats.io
 - (tried GraphQL, gRPC, Protobuf in pet-projects)
-- Have experience w/ Nest.js, TypeORM
+- Have experience w/ Nest.js, TypeORM - but i don't like this
 - (wanna become SQL guru)
+- 
 
 ### Devops & Administering
 
 - Docker
 - Docker Compose
 - Docker Swarm
+- Bash scripting
 - Github Actions
 - Nginx
 - Traefik
 - Prometheus
 - Grafana
-- (learning ansible, etc devops swiss-army knife tools...)
+- (learning ansible, kubernetes (+chef+helm), etc devops swiss-army knife tools...)
 - Have some experience in setuping rich network w/ Wireguard, internal DNS resolver, SSL and more
 
 ### Other
@@ -65,7 +70,7 @@
 
 ## Work Experience 💼
 
-- Unknown small outsource company - web developer - 2021 may - july
+- Untitled small local outsource company - web developer - 2021 may - july
 - Liga Robotov - web developer - 2022 may - july
 - Yandex - intern web developer - 2022 july - october (got offer, suspended while getting education in university)
 - Deeptrix - web delevoper - 2022 october - now
