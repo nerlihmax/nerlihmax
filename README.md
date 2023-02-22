@@ -43,7 +43,6 @@
 - (tried GraphQL, gRPC, Protobuf in pet-projects)
 - Have experience w/ Nest.js, TypeORM - but i don't like this
 - (wanna become SQL guru)
-- 
 
 ### Devops & Administering
 
