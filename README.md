@@ -19,21 +19,26 @@
 ### Frontend
 
 - Preact <3
-- React
+- React (wanna master concurrent mode)
+- Vite <3
 - Next
 - Tailwind CSS
 - preact/signals <3
 - Storybook
 - loki.js
-- Vue (2 & 3)
+- Vitest
+- Playwright
+- Vue (2 & 3 <3)
 - Nuxt
 - HATE REDUX
+- HATE WEBPACK
 - (tried Three.js & Pixl.js in pet-projects)
 - (wanna try Solid.js, Elm, ReScript)
 
 ### Backend
 
 - Express, Fastify
+- tRPC
 - MongoDB
 - PostgreSQL
 - Prisma ORM
@@ -41,6 +46,7 @@
 - S3
 - Nats.io
 - (tried GraphQL, gRPC, Protobuf in pet-projects)
+- HATE NEST.JS
 - Have experience w/ Nest.js, TypeORM - but i don't like this
 - (wanna become SQL guru)
 
@@ -64,7 +70,7 @@
 - Have experience in prototyping embedded and IoT devices
 - Have some experience in computer vision
 - Have a little bit experience in machine learning
-- Using a *nix a more than 7 years B-)
+- Using a *nix a more than 8 years B-)
 - I can read and listen to English free, but unfortunately, due to lack of constant practice, I do not speak and write correctly, as you can see ^_^
 
 ## Work Experience 💼
@@ -96,6 +102,11 @@
 
 - NTI 2021-2022 IoT Final - top 2 of 6
 - VK Vezdekod 2022 Tomsk - group stage
+
+### 2023
+
+- Sovkom "Adventure League" - awaiting results...
+- NTI 2022-2023 IoT Final - coming soon...
 
 ## Contacts & Socials 📮
 
