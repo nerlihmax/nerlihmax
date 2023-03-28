@@ -28,7 +28,7 @@
 - loki.js
 - Vitest
 - Playwright
-- Vue (2 & 3 <3)
+- Vue
 - Nuxt
 - HATE REDUX
 - HATE WEBPACK
