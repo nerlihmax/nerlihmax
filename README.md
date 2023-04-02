@@ -50,7 +50,7 @@
 - Have experience w/ Nest.js, TypeORM - but i don't like this
 - (wanna become SQL guru)
 
-### Devops & Administering
+### Infrastructure stuff
 
 - Docker
 - Docker Compose
@@ -59,9 +59,11 @@
 - Github Actions
 - Nginx
 - Traefik
+- Terraform
+- Ansible
 - Prometheus
 - Grafana
-- (learning ansible, kubernetes (+chef+helm), etc devops swiss-army knife tools...)
+- (learning kubernetes (+chef+helm), etc devops swiss-army knife tools...)
 - Have some experience in setuping rich network w/ Wireguard, internal DNS resolver, SSL and more
 
 ### Other
@@ -105,8 +107,8 @@
 
 ### 2023
 
-- Sovkom "Adventure League" - awaiting results...
-- NTI 2022-2023 IoT Final - coming soon...
+- Sovkom "Adventure League" - top 4 of 6
+- NTI 2022-2023 IoT Final - top 3 of 6
 
 ## Contacts & Socials 📮
 
