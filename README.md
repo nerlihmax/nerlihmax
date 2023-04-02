@@ -42,12 +42,16 @@
 - MongoDB
 - PostgreSQL
 - Prisma ORM
+- InfluxDB
 - Redis
 - S3
 - Nats.io
-- (tried GraphQL, gRPC, Protobuf in pet-projects)
+- MQTT
+- GraphQL (strawberry.rocks, Apollo Server)
+- (tried gRPC & protobuf in pet-projects)
 - HATE NEST.JS
-- Have experience w/ Nest.js, TypeORM - but i don't like this
+- aiohttp
+- Have experience w/ Nest.js, TypeORM, FastAPI - but i don't like this
 - (wanna become SQL guru)
 
 ### Infrastructure stuff
