@@ -13,7 +13,8 @@
 - Node.js
 - Python
 - Basic skills in Java, C
-- (interested in Rust and Haskell)
+- trying my best with Rust 
+- (interested in Haskell and ML family at all)
 - Like functional programming concepts, using fp-ts, ts-pattern, rambda and other functional libraries in all my projects
 
 ### Frontend
