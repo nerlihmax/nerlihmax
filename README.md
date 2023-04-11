@@ -12,6 +12,7 @@
 - Typescript
 - Node.js
 - Python
+- Dart
 - Basic skills in Java, C
 - trying my best with Rust 
 - (interested in Haskell and ML family at all)
@@ -30,6 +31,7 @@
 - Vitest
 - Playwright
 - Vue
+- Flutter
 - Nuxt
 - HATE REDUX
 - HATE WEBPACK
