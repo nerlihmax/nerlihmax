@@ -40,7 +40,7 @@
 
 ### Backend
 
-- Express, Fastify
+- Express
 - tRPC
 - MongoDB
 - PostgreSQL
@@ -52,7 +52,7 @@
 - MQTT
 - GraphQL (strawberry.rocks, Apollo Server)
 - (tried gRPC & protobuf in pet-projects)
-- HATE NEST.JS
+- Nest (i can't understand what i feel about it, hate with and the same time i like it)
 - aiohttp
 - Have experience w/ Nest.js, TypeORM, FastAPI - but i don't like this
 - (wanna become SQL guru)
