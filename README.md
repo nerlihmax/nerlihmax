@@ -94,6 +94,7 @@
 
 - NSTU - Computer science - 2020 - 2025
 - Yandex Frontend School - 2021 september - december
+- Yandex Flutter intensive in Sirius - 2023 april
 
 ## Events & Achievements 🏆
 
