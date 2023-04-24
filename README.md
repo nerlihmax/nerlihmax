@@ -87,8 +87,9 @@
 - Untitled small local outsource company - web developer - 2021 may - july
 - Liga Robotov - web developer - 2022 may - july
 - Yandex - intern web developer - 2022 july - october (got offer, suspended while getting education in university)
-- Deeptrix - web delevoper - 2022 october - now
-- Some side projects as freelancer
+- Deeptrix - web delevoper - 2022 october - 2023 april
+- Shkulev Media Holding - web developer - 2023 april - now
+- Some side projects as freelancer...
 
 ## Education 🎓
 
