@@ -15,8 +15,8 @@
 - Dart
 - Basic skills in Java, C
 - trying my best with Rust 
-- (interested in Haskell and ML family at all)
-- Like functional programming concepts, using fp-ts, ts-pattern, rambda and other functional libraries in all my projects
+- (interested in Haskell and Closure)
+- Like functional programming concepts, using fp-ts, ts-pattern, rambda and other functional libraries in all my js projects
 
 ### Frontend
 
@@ -120,7 +120,7 @@
 - NTI 2022-2023 IoT Final - top 3 of 6
 
 ## Contacts & Socials 📮
-
+- [Gitlab](https://gitlab.com/nerlihmax)
 - [Telegram](https://t.me/nerlihmax)
 - [VK](https://vk.com/nerlihmax)
 - [E-mail](mailto://nerlihmax@yandex.ru)
