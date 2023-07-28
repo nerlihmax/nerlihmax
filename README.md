@@ -10,18 +10,16 @@
 ### Generic
 
 - Typescript
-- Node.js
+- Node.js (using Deno <3 instead now)
 - Python
-- Basic skills in Java, C
-- trying my best with Rust 
-- (interested in Closure and Elixir)
+- Have experience in Java and raw C
+- trying my best with Rust
 
 ### Frontend
 
 - Preact <3
-- React (wanna master concurrent mode)
+- React
 - Vite <3
-- Next
 - Tailwind CSS
 - preact/signals <3
 - Storybook
@@ -29,31 +27,31 @@
 - Vitest
 - Playwright
 - Vue
-- Flutter
+- Next
 - Nuxt
 - HATE REDUX
-- HATE WEBPACK
-- (tried Three.js & Pixl.js in pet-projects)
+- HATE WEBPACK (default legacy 2k cloc spaghetti configs cuz)
+- (tried Flutter, Three.js & Pixl.js in pet-projects)
 - (wanna try Solid.js, Elm, ReScript)
 
 ### Backend
 
+- GraphQL (strawberry.rocks, Apollo, Yoga)
+- PostgreSQL
+- MongoDB
+- Clickhouse
 - Express
 - tRPC
-- MongoDB
-- PostgreSQL
 - Prisma ORM
 - InfluxDB
 - Redis
 - S3
 - Nats.io
-- Clickhouse
 - MQTT
-- GraphQL (strawberry.rocks, Apollo Server)
 - (tried gRPC & protobuf in pet-projects)
 - Nest (i can't understand what i feel about it, hate with and the same time i like it)
 - aiohttp
-- Have experience w/ Nest.js, TypeORM, FastAPI - but i don't like this
+- Have experience with FastAPI - but i don't like this
 - (wanna become SQL guru)
 
 ### Infrastructure stuff
@@ -76,8 +74,7 @@
 
 - Rich experience in junior robotics
 - Have experience in prototyping embedded and IoT devices
-- Have some experience in computer vision
-- Have a little bit experience in machine learning
+- Have a little bit experience in ML, CV and NLP
 - Using a *nix a more than 8 years B-)
 - I can read and listen to English free, but unfortunately, due to lack of constant practice, I do not speak and write correctly, as you can see ^_^
 
