@@ -39,16 +39,18 @@
 - GraphQL (strawberry.rocks, Apollo, Yoga)
 - PostgreSQL
 - MongoDB
-- Clickhouse
+- Clickhouse <3
 - Express
 - tRPC
+- Drizzle ORM <3
 - Prisma ORM
 - InfluxDB
 - Redis
 - S3
+- Zod
 - Nats.io
 - MQTT
-- (tried gRPC & protobuf in pet-projects)
+- gRPC
 - Nest (i can't understand what i feel about it, hate with and the same time i like it)
 - aiohttp
 - Have experience with FastAPI - but i don't like this
@@ -56,6 +58,7 @@
 
 ### Infrastructure stuff
 
+- Kubernetes
 - Docker
 - Docker Compose
 - Docker Swarm
@@ -84,7 +87,8 @@
 - Liga Robotov - web developer - 2022 may - july
 - Yandex - intern web developer - 2022 july - october (got offer, suspended while getting education in university)
 - Deeptrix - web delevoper - 2022 october - 2023 april
-- Shkulev Media Holding - web developer in gamepush.com - 2023 april - now
+- Shkulev Media Holding - web developer in gamepush.com - 2023 april - september
+- Yandex - web developer - 2023 september - now
 - Some side projects as freelancer...
 
 ## Education 🎓
@@ -114,6 +118,7 @@
 
 - Sovkom "Adventure League" - top 4 of 6
 - NTI 2022-2023 IoT Final - top 3 of 6
+- Digital breakthrough 2023: AI season. Siberian Federal District - top 1 🏆
 
 ## Contacts & Socials 📮
 - [Gitlab](https://gitlab.com/nerlihmax)
