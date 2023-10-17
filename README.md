@@ -119,6 +119,7 @@
 - Sovkom "Adventure League" - top 4 of 6
 - NTI 2022-2023 IoT Final - top 3 of 6
 - Digital breakthrough 2023: AI season. Siberian Federal District - top 1 🏆
+- VTB More.Tech 5.0 - group stage
 
 ## Contacts & Socials 📮
 - [Gitlab](https://gitlab.com/nerlihmax)
