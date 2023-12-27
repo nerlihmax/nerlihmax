@@ -1,7 +1,7 @@
 # Nerlih Max 👋
 
 - Software engineer
-- 21 y.o
+- 22 y.o
 - from Novosibirsk
 - +7 UTC, +4 MSK
 
@@ -9,28 +9,22 @@
 
 ### Generic
 
-- Typescript
-- Node.js (using Deno <3 instead now)
+- Typescript & Node
 - Python
-- Have experience in Java and raw C
-- trying my best with Rust
+- A little bit of Golang
+- Zig enthusiast
+- Have a little experience in Java, C
 
 ### Frontend
 
-- Preact <3
-- React
-- Vite <3
+- Preact
+- React & Next
+- Vite & Webpack
 - Tailwind CSS
-- preact/signals <3
-- Storybook
-- loki.js
-- Vitest
-- Playwright
-- Vue
-- Next
-- Nuxt
+- Jest & Vitest
+- Hermione & Playwright
+- Vue & Nuxt
 - HATE REDUX
-- HATE WEBPACK (default legacy 2k cloc spaghetti configs cuz)
 - (tried Flutter, Three.js & Pixl.js in pet-projects)
 - (wanna try Solid.js, Elm, ReScript)
 
@@ -58,7 +52,6 @@
 
 ### Infrastructure stuff
 
-- Kubernetes
 - Docker
 - Docker Compose
 - Docker Swarm
@@ -78,6 +71,7 @@
 - Rich experience in junior robotics
 - Have experience in prototyping embedded and IoT devices
 - Have a little bit experience in ML, CV and NLP
+- Have a teaching and mentoring experience
 - Using a *nix a more than 8 years B-)
 - I can read and listen to English free, but unfortunately, due to lack of constant practice, I do not speak and write correctly, as you can see ^_^
 
@@ -103,7 +97,7 @@
 
 - NTI 2020-2021 IoT Final - top 3 of 8
 - VK Vezdekod 2021 Tula - top 7 (passed to final stage) of 8
-- Summer camp of neurotechologies and programming by "Инжевика" - taught high school students to program in Python by implementing a biofeedback project
+- Summer camp of neurotechologies and programming by "Инжевика" - taught high/middle-school students to program in Python by implementing a biofeedback project
 - NSD.Hack - group stage
 - TenderHack Novosibirsk - top 1 🏆
 - VTB More.Tech 3.0 - group stage
@@ -118,6 +112,7 @@
 
 - Sovkom "Adventure League" - top 4 of 6
 - NTI 2022-2023 IoT Final - top 3 of 6
+- Summer camp of home automatization by "Инжевика" - taught high/middle-school students to develop Arduino-based devices
 - Digital breakthrough 2023: AI season. Siberian Federal District - top 1 🏆
 - VTB More.Tech 5.0 - group stage
 
