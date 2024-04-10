@@ -116,6 +116,10 @@
 - Digital breakthrough 2023: AI season. Siberian Federal District - top 1 🏆
 - VTB More.Tech 5.0 - group stage
 
+### 2024
+
+- NTI 2023-2024 IoT Final - top 2 of 6
+
 ## Contacts & Socials 📮
 - [Gitlab](https://gitlab.com/nerlihmax)
 - [Telegram](https://t.me/nerlihmax)
