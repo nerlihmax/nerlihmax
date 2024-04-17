@@ -1,6 +1,7 @@
 # Nerlih Max 👋
 
 - Software engineer
+- FrontOps enthusiasts
 - 22 y.o
 - from Novosibirsk
 - +7 UTC, +4 MSK
