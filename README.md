@@ -10,20 +10,20 @@
 
 ### Generic
 
-- Typescript & Node
+- Typescript & Node (prefer Bun)
 - Python
 - A little bit of Golang
 - Zig enthusiast
-- Have a little experience in Java, C
+- Have a little experience in C
 
 ### Frontend
 
 - Preact
-- React & Next
+- React
 - Vite & Webpack
 - Tailwind CSS
 - Jest & Vitest
-- Hermione & Playwright
+- Testplane (hermione/gemini) & Playwright
 - Vue & Nuxt
 - HATE REDUX
 - (tried Flutter, Three.js & Pixl.js in pet-projects)
@@ -34,38 +34,42 @@
 - GraphQL (strawberry.rocks, Apollo, Yoga)
 - PostgreSQL
 - MongoDB
-- Clickhouse <3
 - Express
+- Elysia.Js
 - tRPC
 - Drizzle ORM <3
 - Prisma ORM
-- InfluxDB
 - Redis
-- S3
+- S3 (Minio)
 - Zod
 - Nats.io
 - MQTT
 - gRPC
 - Nest (i can't understand what i feel about it, hate with and the same time i like it)
 - aiohttp
-- Have experience with FastAPI - but i don't like this
-- (wanna become SQL guru)
+- FastAPI
+
+### Analytics stuff
+- Clickhouse <3
+- InfluxDB
+- Prometheus
+- Grafana
+- YTSaurus
+- Datalens
 
 ### Infrastructure stuff
 
 - Docker
 - Docker Compose
 - Docker Swarm
-- Bash scripting
+- Bash
 - Github Actions
-- Nginx
-- Traefik
+- Nginx at basic
+- Traefik at basic
 - Terraform
-- Ansible
-- Prometheus
-- Grafana
+- Ansible a little bit
 - (learning kubernetes (+chef+helm), etc devops swiss-army knife tools...)
-- Have some experience in setuping rich network w/ Wireguard, internal DNS resolver, SSL and more
+- Have a little experience in setuping rich network w/ Wireguard, internal DNS resolver, SSL and more
 
 ### Other
 
@@ -73,7 +77,7 @@
 - Have experience in prototyping embedded and IoT devices
 - Have a little bit experience in ML, CV and NLP
 - Have a teaching and mentoring experience
-- Using a *nix a more than 8 years B-)
+- Using a *nix a more than 10 years B-)
 - I can read and listen to English free, but unfortunately, due to lack of constant practice, I do not speak and write correctly, as you can see ^_^
 
 ## Work Experience 💼
