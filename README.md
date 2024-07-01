@@ -34,6 +34,7 @@
 - GraphQL (strawberry.rocks, Apollo, Yoga)
 - PostgreSQL
 - MongoDB
+- Hono
 - Express
 - Elysia.Js
 - tRPC
