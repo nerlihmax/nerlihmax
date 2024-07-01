@@ -49,13 +49,15 @@
 - aiohttp
 - FastAPI
 
-### Analytics stuff
+### Analytics & BigData stuff
+
 - Clickhouse <3
 - InfluxDB
 - Prometheus
 - Grafana
 - YTSaurus
 - Datalens
+- Exploring Hadoop stack...
 
 ### Infrastructure stuff
 
