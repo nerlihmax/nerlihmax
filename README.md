@@ -84,10 +84,10 @@
 
 - Untitled small local outsource company - web developer - 2021 may - july
 - Liga Robotov - web developer - 2022 may - july
-- Yandex - intern web developer - 2022 july - october (got offer, suspended while getting education in university)
+- Yandex - intern web developer at Yandex Ads - 2022 july - october (got offer, suspended while getting education in university)
 - Deeptrix - web delevoper - 2022 october - 2023 april
 - Shkulev Media Holding - web developer in gamepush.com - 2023 april - september
-- Yandex - web developer - 2023 september - now
+- Yandex - web infrastructure developer at Yandex Ads - 2023 september - now
 - Some side projects as freelancer...
 
 ## Education 🎓
@@ -124,6 +124,7 @@
 ### 2024
 
 - NTI 2023-2024 IoT Final - top 2 of 6
+- LCT 2024 - top 1 🏆
 
 ## Contacts & Socials 📮
 - [Gitlab](https://gitlab.com/nerlihmax)
