@@ -133,11 +133,12 @@
 - Digital breakthrough 2024: AI season. Russian Federation - top 3 - [AI-based platform for detection duplicate fraud short-video (like TikTok)](https://github.com/talkiiing-team/saturn)
 
 ## Contacts & Socials 📮
+- [Github](https://github.com/nerlihmax)
 - [Gitlab](https://gitlab.com/nerlihmax)
 - [Telegram](https://t.me/nerlihmax)
-- [VK](https://vk.com/nerlihmax)
 - [E-mail](mailto://nerlihmax@yandex.ru)
 
-cfeee1e5e4e00a <3
-/talkiiing <3
-PCODE <3
+##### Shootouts
+- cfeee1e5e4e00a <3
+- /talkiiing <3
+- PCODE <3
