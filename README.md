@@ -131,6 +131,7 @@
 - LCT 2024 - top 1 🏆 - [no-code platform for preciese data-analyze](https://github.com/talkiiing-team/zakupai)
 - Digital breakthrough 2024: AI season. Siberian Federal District - top 1 🏆 - [AI-based HR assistant](https://github.com/talkiiing-team/merito)
 - Digital breakthrough 2024: AI season. Russian Federation - top 3 - [AI-based platform for detection duplicate fraud short-video (like TikTok)](https://github.com/talkiiing-team/saturn)
+- Digital breakthrough 2024: AI season. CIS - top 1 🏆 - [AI-based platform for classification & dispatching support line for hardware vendor](https://github.com/BondarchukGleb42/mailstic)
 
 ## Contacts & Socials 📮
 - [Github](https://github.com/nerlihmax)
