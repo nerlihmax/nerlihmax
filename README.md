@@ -2,7 +2,7 @@
 
 - Software engineer
 - (Dev/Front/ML/SmthOps) enthusiasts
-- 22 y.o
+- 23 y.o
 - from Novosibirsk
 - +7 UTC, +4 MSK
 
