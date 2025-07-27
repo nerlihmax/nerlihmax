@@ -28,9 +28,9 @@
 - (wanna try Solid.js, Elm, ReScript)
 
 ### Adopt backend tooling
+
 - Express.js & Nest.js & Elysia.js & Hono
 - Prisma ORM & Drizzle ORM
-
 - FastAPI & aiohttp
 - SQL Alchemy
   
@@ -86,11 +86,13 @@
   - Making Uni-SDK for game developers, who wants publish at popular HTML5 game platforms
   - Maintaining SDK-runtime
   - Writing features for CRM
-- Yandex - web infrastructure developer at Yandex Ads - 2023 september - now
+- Yandex - web infrastructure developer at Yandex Ads - 2023 september - 2025 may
   - Developer at Web Banner Ads Infrastructure Team, working at really high-load node.js service
   - Making CI/CD processes really stable, fast and rich
   - Improving DevUX, derustificating legacy
   - Improving server and client perfomance
+- Yandex - software developer Yango Ads - 2025 may - now
+  - Improving Yandex Ads Cabinets for international world-wide market
 - Lacmus - 2024 - building rich data- & ML- infrastrcture for BIG data-mining, processing and learning
   - Prefect + Selenium Grid for data-mining
   - Yandex Query for data-processing
