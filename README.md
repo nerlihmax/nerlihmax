@@ -73,7 +73,7 @@
 
 ## Work Experience 💼
 
-- Untitled small local outsource company - web developer - 2021 may - july
+- SoftWeather - intern web developer - 2021 may - july
 - Liga Robotov - web developer - 2022 may - july
   - Maintaining internal CRM
   - Developed [JS SDK for Lego WeDo BLE 2.0](https://github.com/nerlihmax/wedo2-sdk) & integrated it in [Scratch.Jr](https://github.com/jfo8000/ScratchJr-Desktop) & [Scratch 3](https://scratch.mit.edu/download)
@@ -93,10 +93,9 @@
   - Improving server and client perfomance
 - Yandex - software developer Yango Ads - 2025 may - now
   - Improving Yandex Ads Cabinets for international world-wide market
-- Lacmus - 2024 - building rich data- & ML- infrastrcture for BIG data-mining, processing and learning
-  - Prefect + Selenium Grid for data-mining
-  - Yandex Query for data-processing
-  - Prefect for models learning
+  - Doing cool features for In-App & Web publishers around world
+- lacmus.ru - architecture - 2024 sep - now
+  - Building scalable in-company data platform
 
 ## Education 🎓
 
